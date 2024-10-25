@@ -1,0 +1,36 @@
+body {
+    background-color: #fffafa;
+    font-family: Arial, sans-serif; 
+}
+.container {
+    padding: 30px; 
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(255, 246, 246, 0.1);
+   background-color: white;
+}
+h2 {
+    margin-bottom: 20px;
+    color:black; 
+    text-align: center;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form-group label {
+    font-weight: bold;
+    color: black;
+}
+.btn-primary {
+    background-color: white;
+    border-color: black;
+    color: black;
+}
+.btn-primary:hover {
+    background-color:black;
+    border-color:white;
+}
+body {
+    background-image: url('./images/bandana.jpg');
+  }
+  .form-control{
+    color: black;
+  }
